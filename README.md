@@ -70,27 +70,10 @@ I focus on clean architecture, reliable backend systems, polished frontend exper
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=yolorq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yolorq&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=yolorq&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="left">
-
-### **RU**
-- **vpitashka** — разработка дизайна для дискорд бота.
-
-<br>
-
-### **EN**
-- **vpitashka** — design development for a Discord bot
-
 </div>
 
 ---
